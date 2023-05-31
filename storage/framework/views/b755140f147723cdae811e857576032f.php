@@ -1,0 +1,1 @@
+<?php /**PATH F:\ghifar\1. KULIAH\3. Matkul Semester 4\pemograman-web\AFTER-UTS\laravel\coba-laravel-template\resources\views/partials/navbar.blade.php ENDPATH**/ ?>
