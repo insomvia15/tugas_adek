@@ -31,7 +31,7 @@
                 Made with <span class="text-red-500">&hearts;</span> by
                 <a class="text-blue-500 hover:text-blue-800" href="https://github.com/buryne/tugas-web-1"
                     target="_blank" rel="noopener noreferrer">
-                    Rito
+                    Kakak Zerrin Pamungkas
                 </a>
             </p>
         </footer>
